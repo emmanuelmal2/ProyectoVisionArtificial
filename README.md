@@ -13,7 +13,7 @@ El modelo fue entrenado con TensorFlow y luego convertido a TensorFlow.js para s
 
 📂 El modelo no está incluido en el repositorio por su tamaño, pero puedes descargarlo desde el siguiente enlace:
 
-🔗 [Modelo entrenado (Google Drive)](https://drive.google.com/)
+🔗 [Modelo entrenado (Google Drive) (Aun en proceso de subirse)](https://drive.google.com/)
 
 ## 📁 Estructura del proyecto
 
