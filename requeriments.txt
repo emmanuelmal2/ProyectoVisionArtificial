@@ -1,0 +1,6 @@
+tensorflow==2.14.0
+tensorflowjs==4.9.1
+numpy
+pillow
+matplotlib
+scikit-learn
